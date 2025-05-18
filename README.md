@@ -9,6 +9,11 @@ authentication and a credit-based usage system.
 ---
 
 ## Features
+
+-  **User Authentication**
+  - Signup/Login functionality using JWT and bcrypt
+  - Secure user sessions with token-based authentication
+  - User account data is stored securely in MongoDB
 - AI-based image generation using the Clipdrop API.
 - User authentication system with login and signup functionality.
 - Clean and modern user interface.
