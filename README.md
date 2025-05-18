@@ -1,7 +1,7 @@
 # Imagify
 
 ## Live Demo
-[Click here to view the website](https://imagify-frontend-usb0.onrender.com) <!-- Replace # with the actual live demo link -->
+[Click here to view the website](https://imagify-frontend-usb0.onrender.com) 
 
 ## Description
 - A full-stack SaaS application that generates images using AI based on user input text. Built with the MERN stack (MongoDB, Express, React, Node.js) and powered by the ClipDrop API, the app includes user 
