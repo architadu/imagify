@@ -46,7 +46,7 @@ const generateImage = async (req, res) => {
       resultImage,
     });
   } catch (error) {
-    console.log(error);
+    (error);
     res.json({ success: false, message: error.message });
   }
 };
