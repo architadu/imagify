@@ -10,13 +10,13 @@ authentication and a credit-based usage system.
 
 ## Features
 
--  **User Authentication**
   - Signup/Login functionality using JWT and bcrypt
   - Secure user sessions with token-based authentication
   - User account data is stored securely in MongoDB
-- AI-based image generation using the Clipdrop API.
-- User authentication system with login and signup functionality.
-- Clean and modern user interface.
+  - Generate images from text prompts using the ClipDrop API
+  - Real-time image preview after generation
+  - Responsive and interactive user experience
+  - Track remaining credits in real-time
 
 ## Tech Stack
 - Frontend: React.js, Tailwind CSS (or other styling)
