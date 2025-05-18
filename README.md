@@ -14,8 +14,8 @@ authentication and a credit-based usage system.
 - Clean and modern user interface.
 
 ## Tech Stack
--Frontend: React.js, Tailwind CSS (or other styling)
--Backend: Node.js, Express.js
--Database: MongoDB (with Mongoose)
--Authentication: JWT, bcrypt
--AI API: ClipDrop AP
+- Frontend: React.js, Tailwind CSS (or other styling)
+- Backend: Node.js, Express.js
+- Database: MongoDB (with Mongoose)
+- Authentication: JWT, bcrypt
+- AI API: ClipDrop AP
