@@ -18,4 +18,4 @@ authentication and a credit-based usage system.
 - Backend: Node.js, Express.js
 - Database: MongoDB (with Mongoose)
 - Authentication: JWT, bcrypt
-- AI API: ClipDrop AP
+- AI API: ClipDrop API
