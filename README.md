@@ -1,6 +1,7 @@
 # Imagify
 
 ## Live Demo
+Deployed with render
 [Click here to view the website](https://imagify-frontend-usb0.onrender.com) 
 
 ## Description
